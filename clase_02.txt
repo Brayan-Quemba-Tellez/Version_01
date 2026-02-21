@@ -23,7 +23,7 @@
 
     <h2>Brayan</h2>
     <p><strong>Número de identificación:</strong> 1000464134</p>
-    <p>>strong>Correo:</strong> 1000464134@teinco.edu.co</p>
+    <p><strong>Correo:</strong> 1000464134@teinco.edu.co</p>
 
 </body>
 </html>
